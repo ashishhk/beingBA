@@ -1,1 +1,8 @@
+title: Being Business Analyst
+description: Blog on being business analyst, a journey...
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-architect
+# head github repository
+github.repository_url: ashishhk.github.io/beingBA/
+repository: beingBA/ashishhk.github.io
